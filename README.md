@@ -18,12 +18,14 @@ To address the scarcity of power transformer ground oil leakage samples and the 
 
 Below are selected examples of the power transformer ground oil leakage images generated using the **AnoTGOL** framework:
 
-| Synthetic Anomaly Image | Automatic Annotation Overlay |
-| :---: | :---: |
-| <img src="docs/preview_img1.jpg" width="300"> | <img src="docs/preview_mask1.jpg" width="300"> |
-| <img src="docs/preview_img2.jpg" width="300"> | <img src="docs/preview_mask2.jpg" width="300"> |
+## 🖼️ Dataset Preview
 
+Below are selected examples of the power transformer ground oil leakage images generated using the **AnoTGOL** framework:
 
+<div align="center">
+  <img src="docs/preview_img1.jpg" width="45%">
+  <img src="docs/preview_img2.jpg" width="45%">
+</div>
 ---
 
 ## 💾 AnoTGOL-Dataset
