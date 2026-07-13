@@ -23,8 +23,10 @@ Below are selected examples of the power transformer ground oil leakage images g
 Below are selected examples of the power transformer ground oil leakage images generated using the **AnoTGOL** framework:
 
 <div align="center">
-  <img src="docs/preview_img1.jpg" width="45%">
-  <img src="docs/preview_img2.jpg" width="45%">
+  <img src="docs/concret01.jpg" width="45%">
+  <img src="docs/concret02.jpg" width="45%">
+  <img src="docs/gravel01.jpg" width="45%">
+  <img src="docs/gravel02.jpg" width="45%">
 </div>
 ---
 
